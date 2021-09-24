@@ -8,5 +8,6 @@ namespace TestGit
     public class GitTester
     {
         //Master - 1 : changes done by master
+        //Feature1 - 1 : changes done by Feature1
     }
 }
