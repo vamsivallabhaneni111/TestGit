@@ -9,7 +9,7 @@ namespace TestGit
     {
         //Master - 1 : changes done by master
         //Feature1 - 1 : changes done by Feature1
-        //Feature - 2 : changes done by Feature.
+        //Feature2 - 2 : changes done by Feature.
         //Feature3 - 1 : changes done by Fature3
     }
 }
